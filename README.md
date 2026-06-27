@@ -47,19 +47,18 @@ Written in **plain readable Python** — Kaggle notebook style. Zero over-engine
 ## 📂 Repository Structure
 
 ```
-LeetCode-DSA/
-│
-├── 📓 Leetcode_01.ipynb   ──  Arrays & Hashing
-├── 📓 Leetcode_02.ipynb   ──  Two Pointers
-├── 📓 Leetcode_03.ipynb   ──  Sliding Window
-├── 📓 Leetcode_04.ipynb   ──  Stack / Monotonic Stack
-├── 📓 Leetcode_05.ipynb   ──  Binary Search
-├── 📓 Leetcode_06.ipynb   ──  Linked Lists
-├── 📓 Leetcode_07.ipynb   ──  Trees
-├── 📓 Leetcode_08.ipynb   ──  Graphs
-├── 📓 Leetcode_09.ipynb   ──  Dynamic Programming
-│
-└── 📄 README.md
+## 📚 Repository Structure
+
+| # | Notebook |
+|---|----------|
+| 09 | Leetcode_09.ipynb |
+| 509 | Leetcode_509.ipynb |
+| 1137 | LeetCode_1137.ipynb |
+| 1281 | Leetcode_1281.ipynb |
+| 1431 | Leetcode_1431.ipynb |
+| 2520 | Leetcode_2520.ipynb |
+| - | Recursion_Practice.ipynb |
+| - | Time_&_Space_Complexity.ipynb |
 ```
 
 ---
