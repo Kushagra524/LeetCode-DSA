@@ -35,8 +35,8 @@ Every notebook follows a consistent format so each session actually teaches a pa
 ```
 📌 Problem Statement
 💡 Intuition & Thought Process
-🐢 Brute Force   →   O(?) time / O(?) space
-🚀 Optimized     →   O(?) time / O(?) space
+🐢 Brute Force 
+🚀 Optimized
 📊 Complexity Breakdown
 ```
 
