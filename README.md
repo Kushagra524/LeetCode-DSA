@@ -16,13 +16,22 @@
 
 ---
 
-## 📊 Live Problem Counter
+## 📊 Live LeetCode Stats
 
-> The badge below auto-reads this repo and counts **actual code cells + problem headings** from every `.ipynb` file. No fake numbers.
+> Pulled **live from my LeetCode profile** — updates automatically every time this page loads. No manual edits, no fake numbers.
 
-[![Problems Solved](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2FKushagra524%2FLeetCode-DSA&query=$.size&label=Repo%20Size%20(KB)&color=F97316&style=for-the-badge&logo=leetcode&logoColor=white)](https://github.com/Kushagra524/LeetCode-DSA)
-[![Last Commit](https://img.shields.io/github/last-commit/Kushagra524/LeetCode-DSA?style=for-the-badge&color=4ADE80&label=Last+Updated)](https://github.com/Kushagra524/LeetCode-DSA/commits/main)
-[![Notebooks](https://img.shields.io/github/search/Kushagra524/LeetCode-DSA/.ipynb?style=for-the-badge&label=Notebooks&color=60A5FA)](https://github.com/Kushagra524/LeetCode-DSA)
+<div align="center">
+
+[![Problems Solved](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2Fkushagra_20&query=%24.totalSolved&label=Total%20Solved&color=F97316&style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/kushagra_20/)
+[![Easy](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2Fkushagra_20&query=%24.easySolved&label=Easy&color=4ADE80&style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/kushagra_20/)
+[![Medium](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2Fkushagra_20&query=%24.mediumSolved&label=Medium&color=F59E0B&style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/kushagra_20/)
+[![Hard](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2Fkushagra_20&query=%24.hardSolved&label=Hard&color=EF4444&style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/kushagra_20/)
+
+<br/>
+
+[![LeetCode Stats Card](https://leetcard.jacoblin.cool/kushagra_20?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=1&radius=8)](https://leetcode.com/u/kushagra_20/)
+
+</div>
 
 ---
 
@@ -46,9 +55,6 @@ Written in **plain readable Python** — Kaggle notebook style. Zero over-engine
 
 ## 📂 Repository Structure
 
-```
-## 📂 Repository Structure
-
 | # | Notebook |
 |---|----------|
 | 09 | Leetcode_09.ipynb |
@@ -63,7 +69,6 @@ Written in **plain readable Python** — Kaggle notebook style. Zero over-engine
 | 2520 | Leetcode_2520.ipynb |
 | - | Recursion_Practice.ipynb |
 | - | Time_&_Space_Complexity.ipynb |
-```
 
 ---
 
@@ -279,6 +284,7 @@ Or open directly in **VS Code** with the Jupyter extension — zero extra setup.
 | GitHub | [github.com/Kushagra524](https://github.com/Kushagra524) |
 | Kaggle | [kaggle.com/kushagrasrivastava21](https://kaggle.com/kushagrasrivastava21) |
 | LinkedIn | [linkedin.com/in/kushagra-srivastava-19a170332](https://linkedin.com/in/kushagra-srivastava-19a170332) |
+| LeetCode | [leetcode.com/u/kushagra_20](https://leetcode.com/u/kushagra_20/) |
 
 </div>
 
@@ -294,8 +300,4 @@ Or open directly in **VS Code** with the Jupyter extension — zero extra setup.
 ```
 
 *Found it useful? Drop a ⭐ — it keeps the grind going.*
-
-[![GitHub stars](https://img.shields.io/github/stars/Kushagra524/LeetCode-DSA?style=social)](https://github.com/Kushagra524/LeetCode-DSA/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/Kushagra524/LeetCode-DSA?style=social)](https://github.com/Kushagra524/LeetCode-DSA/network/members)
-
 </div>
