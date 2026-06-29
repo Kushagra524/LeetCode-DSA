@@ -47,11 +47,15 @@ Written in **plain readable Python** — Kaggle notebook style. Zero over-engine
 ## 📂 Repository Structure
 
 ```
-## 📚 Repository Structure
+## 📂 Repository Structure
 
 | # | Notebook |
 |---|----------|
 | 09 | Leetcode_09.ipynb |
+| 50 | Leetcode_50.ipynb |
+| 231 | Leetcode_231.ipynb |
+| 326 | Leetcode_326.ipynb |
+| 342 | Leetcode_342.ipynb |
 | 509 | Leetcode_509.ipynb |
 | 1137 | LeetCode_1137.ipynb |
 | 1281 | Leetcode_1281.ipynb |
